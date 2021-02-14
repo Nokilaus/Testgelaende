@@ -3,12 +3,37 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="/Dummy.txt">
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.java">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/martinstest/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/plainjava/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/plainjava/src/main/java/com/example/plainjava/MyClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/plainjava/src/main/java/com/example/plainjava/MySQLUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/plainjava/src/main/java/com/example/plainjava/MySQLUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/plainjava/src/main/java/com/example/plainjava/db.properties">
           <value>
             <set />
           </value>

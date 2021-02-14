@@ -1,2 +1,4 @@
+include ':mysql-connector-java-8.0.23'
+include ':plainjava'
 include ':app'
-rootProject.name = "My Application"
+rootProject.name = "MartinsTest"
